@@ -9,3 +9,5 @@
 - Uso do git push
 
 - Uso do git pull
+
+- Uso de git fetch
