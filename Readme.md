@@ -6,4 +6,4 @@
 
 - Uso do comando git restore
 
-* Uso do git push
+- Uso do git push
